@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working at **Volkswagen do Brasil**
 
-- 🌱 I’m currently learning **TypeScript and Javascript**
-
 - 📫 How to reach me **andref2210@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
