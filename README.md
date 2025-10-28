@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm André Franciosi</h1>
 
-- 🔭 I’m currently working at **Volkswagen do Brasil**
+- 🔭 I’m currently working at **Perkons**
 
 - 📫 How to reach me **andref2210@hotmail.com**
 
